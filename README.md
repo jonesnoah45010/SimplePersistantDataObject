@@ -5,10 +5,10 @@ Examples...
 
 1. Counting how many times a program is run
 
-from memory import *
-counter = memory("counter") # object instantiated and "counter.txt" file created in current working directory
-mem += 1 
-print("this program has run " + str(counter) + " times")
+from memory import * \n 
+counter = memory("counter") # object instantiated and "counter.txt" file created in current working directory \n
+mem += 1 \n
+print("this program has run " + str(counter) + " times") \n
 
 
 
